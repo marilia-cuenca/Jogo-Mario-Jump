@@ -6,6 +6,7 @@ Criação de um mini jogo do Mario usando JavaScript, CSS e HTML
 
 - `HTML`
 - `CSS`
+- `JavaScript`
 
 
 
@@ -19,10 +20,7 @@ Criação de um mini jogo do Mario usando JavaScript, CSS e HTML
 
 ## Veja que legal como fica a página do jogo:
 
-Resultado
-![image]()
-
-
+<img src="https://user-images.githubusercontent.com/82479792/232246099-baef59ea-817a-4f3f-bf1d-cd389cf95821.jpg" alt="Imagem do Jogo Mario Jump" width="50%">
 
 
 ## 🛠️ Abrir e rodar o projeto
