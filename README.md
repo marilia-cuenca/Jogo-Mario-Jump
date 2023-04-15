@@ -26,3 +26,4 @@ Criação de um mini jogo do Mario.
 ## 🛠️ Abrir e rodar o projeto
 
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+Você deve apertar a tecla de espaço do teclado para fazer o Mario pular o obstáculo.
