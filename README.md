@@ -6,7 +6,6 @@ Criação de um mini jogo do Mario usando JavaScript, CSS e HTML
 
 - `HTML`
 - `CSS`
-- `Flexbox`
 
 
 
