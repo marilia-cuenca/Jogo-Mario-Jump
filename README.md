@@ -1,5 +1,5 @@
 # Jogo-Mario-Jump
-Criação de um mini jogo do Mario usando JavaScript, CSS e HTML
+Criação de um mini jogo do Mario.
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
